@@ -19,7 +19,6 @@ const Serena = {
 ### Serena's Stats
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenhuynh&show_icons=true&theme=radical)](https://github.com/jenhuynh/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenhuynh&layout=compact&show_icons=true&theme=radical)](https://github.com/jenhuynh/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=serenaqchen&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serenaqchen&hide=TeX&layout=compact)
 <br>
