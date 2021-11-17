@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center" >Hello friends! </h1>
 
-<!--
-**serenaqchen/serenaqchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> My name is Serena and I am a biologist turned coder. I'm a problem solver, creative, and a little silly :P </h2>
+<p align="center"><img src="https://c.tenor.com/hAFS225f6RQAAAAd/cat-funny.gif" />
+ </p>
 
-Here are some ideas to get you started:
+### About me... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Serena = {
+  pronouns: "she" | "her",
+  code: [HTML, CSS, JavaScript, Python],
+  frameworks: [React, Node.js, Express.js, PostGresSQL, Jest, Docker],
+  tools: [Chrome Developer Toools, VS Code, TDD (Jest and RTL), Terminal, Git, GithHub],
+  goal: "Pay it forward and help others from diverse backgrounds to find their place in tech <3",
+  motivation: "making an impact in people's lives"
+}
+```
+### Serena's Stats
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenhuynh&show_icons=true&theme=radical)](https://github.com/jenhuynh/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenhuynh&layout=compact&show_icons=true&theme=radical)](https://github.com/jenhuynh/github-readme-stats)
+<br>
