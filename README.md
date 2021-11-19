@@ -1,6 +1,6 @@
 <h1 align="center" >Hello friends! </h1>
 
-<h2 align="center"> My name is Serena and I am a biologist turned coder. I'm a problem solver, creative, and a little silly :P </h2>
+<h2 align="center"> My name is Serena and I am a biologist turned coder. I'm a problem solver, creative thinker, and a little silly :P </h2>
 <p align="center"><img src="https://c.tenor.com/hAFS225f6RQAAAAd/cat-funny.gif" />
  </p>
 
